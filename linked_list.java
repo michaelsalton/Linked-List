@@ -1,4 +1,4 @@
-public class assign3{
+public class linked_list{
 
     static class LinkedList {
         Node head; // head of the list
